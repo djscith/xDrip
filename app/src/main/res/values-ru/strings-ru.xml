@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="title_activity_bluetooth_scan">Bluetooth Scan</string>
+	<string name="title_activity_bluetooth_scan">Bluetooth Скан.</string>
 	<string name="connected">Подключено</string>
 	<string name="disconnected">Отключен</string>
 	<string name="menu_scan">Сканирование</string>
@@ -494,4 +494,8 @@
 	<string name="split">Трещина</string>
 	<string name="delete">Удалить</string>
 	<string name="title_activity_btglucose_meter">Измеритель сканирования</string>
+	<string name="cloud_upload">Загрузка в облако</string>
+	<string name="glucose_meters">Глюкометр</string>
+	<string name="options_for_upload">Опции для Nightscout, MongoDB или Dexcom Share uploading</string>
+	<string name="data_sync">Синхронизация данных</string>
 </resources>
